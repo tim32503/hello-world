@@ -1,2 +1,2 @@
-web: bin/rails server -p 3000
-webpacker: bin/webpack-dev-server
+web: bin/rails server -p 5000
+webpacker: bin/webpack
